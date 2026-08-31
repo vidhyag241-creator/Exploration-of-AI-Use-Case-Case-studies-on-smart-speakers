@@ -8,6 +8,7 @@ speakers such as Amazon Echo, Google Nest, and Apple HomePod.
 Smart speakers combine several AI technologies to understand human speech, 
 identify the user's intention, search for information, control smart devices, play music, 
 set reminders, and answer questions.
+
 # WORKING PRINCIPLE 
 The basic working process of an AI-enabled smart speaker is:
 User Voice → Microphone → Speech Recognition → NLP → Intent Detection → AI 
